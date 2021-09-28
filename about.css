@@ -1,0 +1,45 @@
+
+#a2{
+    border-bottom: 2px solid #74b9ff;
+}
+.about{
+    padding: 100px 0px;
+}
+.about-row{
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+.left-col{
+flex-basis: 50%;
+max-width: 350px;
+margin:auto;
+}
+.right-col{
+flex-basis: 50%;
+text-align: center;
+}
+#img1{
+    width:150px;
+    height:140px;
+}
+#img2{
+    width:720px;
+    height:450px;
+   position:absolute;
+   top:165px;
+   left:570px;
+
+}
+.left-col h1{
+    font-size:50px;
+    
+ }
+.left-col p{
+    font-size:20px;
+    text-align: justify;
+    margin:65px 30px;
+}

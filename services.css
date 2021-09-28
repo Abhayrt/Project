@@ -1,0 +1,35 @@
+
+#a3{
+    border-bottom: 2px solid #74b9ff;
+}
+#services{
+    padding:50px 0px;
+}
+.info{
+    text-align:center
+}
+.info h1{
+    font-size:50px;
+}
+.info p{
+    font-size:25px;
+    font-weight:bold ;
+}
+
+.box{
+    margin:30px;
+    height:300px ;
+    width: 380px;
+    border-style: ridge;
+    text-align: center;
+    display: inline-block;
+   
+}
+.box:hover{
+    border: solid yellow 7px;
+}
+img{
+    width:260px;
+    height:250px;
+    border-radius: 10px;
+}

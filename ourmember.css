@@ -1,0 +1,39 @@
+#a4{
+    border-bottom: 2px solid #74b9ff;
+}
+.info{
+    text-align:center
+}
+.info h1{
+    font-size:50px;
+}
+.info p{
+    font-size:25px;
+    font-weight:bold ;
+}
+.member-card{
+text-align: center;
+margin:auto;
+padding-top: 50px;
+width:50%;
+}
+.member-card p{
+
+    margin:20px 0px;
+}
+.member-card h3{
+    margin:20px 0px;
+}
+img:hover{
+     
+    border:yellow solid 5px;
+   
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    padding:1px;
+    border:8px solid transparent;
+    
+}

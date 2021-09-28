@@ -1,0 +1,35 @@
+#a5{
+    border-bottom: 2px solid #74b9ff;
+}
+.info{
+    text-align: center;
+}
+.info h1{
+    font-size: 50px;
+}
+.info h2{
+    font-size: 20px;
+}
+img:hover{
+    border:yellow solid 15px;
+}
+
+
+img{
+    
+    background-color: turquoise;
+     width:450px;
+     height:290px;
+     display: block;
+     
+}
+.ex{
+    
+    display: block;
+    position: relative;
+    left:470px;
+}
+h3{
+    position: relative;
+    left:150px;
+}
